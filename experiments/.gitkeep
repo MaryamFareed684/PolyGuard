@@ -1,0 +1,4 @@
+├── experiments/                # Isolated experiment folders (no overwriting)
+│   ├── exp_01_baseline_tfidf/
+│   ├── exp_02_codebert/
+│   └── exp_03_hybrid_model/

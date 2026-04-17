@@ -1,0 +1,9 @@
+├── src/
+│   ├── data_pipeline/          # Collection, cleaning, tokenization
+│   ├── features/               # Code embeddings, AST parsing
+│   ├── models/                 # Baseline, transformer, multi-label classifier
+│   ├── rules_engine/           # SQLi, XSS, memory safety rule detectors
+│   ├── training/               # Train loop, loss functions, metrics
+│   ├── evaluation/             # Eval scripts, confusion matrix, error analysis
+│   ├── inference/              # ← Public API: pipeline.py
+│   └── utils/                  # Logger, config loader, helpers

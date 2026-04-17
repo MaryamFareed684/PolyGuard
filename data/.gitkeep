@@ -1,0 +1,4 @@
+├── data/
+│   ├── raw/                    # CVE dataset, OWASP samples, GitHub vulns
+│   ├── processed/              # train / val / test splits (JSON)
+│   └── labels/                 # Vulnerability type taxonomy
