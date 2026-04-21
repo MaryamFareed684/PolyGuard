@@ -1,7 +1,7 @@
 
----
 
-# ✍️ 2. system_overview.md (SECOND FILE)
+
+# ✍️  system_overview.md
 
 ```md
 # 🧠 System Overview
@@ -30,7 +30,7 @@ PolyGuard is a hybrid AI + static analysis system designed to detect security vu
 - Built using FastAPI
 - Handles requests and responses
 
----
+
 
 ## 🔄 Data Flow
 
@@ -54,7 +54,6 @@ PolyGuard is a hybrid AI + static analysis system designed to detect security vu
 - HuggingFace → model hosting
 - GitHub → code repository
 
----
 
 ## 🎯 Goal
 
